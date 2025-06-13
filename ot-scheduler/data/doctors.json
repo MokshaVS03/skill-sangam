@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Smith",
+    "specialty": "Cardiology",
+    "status": "assigned"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Johnson",
+    "specialty": "Neurosurgery",
+    "status": "assigned"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Lee",
+    "specialty": "Orthopedics",
+    "status": "free"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Patel",
+    "specialty": "General",
+    "status": "assigned"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Garcia",
+    "specialty": "Vascular",
+    "status": "free"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Kim",
+    "specialty": "ENT",
+    "status": "free"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Wong",
+    "specialty": "Urology",
+    "status": "free"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Martinez",
+    "specialty": "Pediatric",
+    "status": "free"
+  },
+  {
+    "id": 9,
+    "name": "Dr. Brown",
+    "specialty": "Plastic",
+    "status": "assigned"
+  },
+  {
+    "id": 10,
+    "name": "Dr. Davis",
+    "specialty": "Thoracic",
+    "status": "assigned"
+  },
+  {
+    "id": 11,
+    "name": "Dr. Wilson",
+    "specialty": "Trauma",
+    "status": "on-call"
+  },
+  {
+    "id": 12,
+    "name": "Dr. Taylor",
+    "specialty": "Oncology",
+    "status": "on-call"
+  }
+]

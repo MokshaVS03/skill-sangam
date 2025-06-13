@@ -1,0 +1,129 @@
+[
+  {
+    "id": 1,
+    "name": "OT-1",
+    "status": "occupied",
+    "isEmergencyOT": false,
+    "freeAt": "2025-06-02T23:32:37+05:30",
+    "patientInfo": {
+      "id": "P1000",
+      "name": "Patient 1000",
+      "token": "TKN1000",
+      "procedure": "Appendectomy",
+      "urgency": "normal",
+      "startTime": "2025-06-02T20:12:37+05:30"
+    },
+    "doctorId": 2
+  },
+  {
+    "id": 2,
+    "name": "OT-2",
+    "status": "occupied",
+    "isEmergencyOT": false,
+    "freeAt": "2025-06-02T21:51:42+05:30",
+    "patientInfo": {
+      "id": "P5825",
+      "name": "Ramesh",
+      "token": "TKN9403",
+      "procedure": "Hernia Repair",
+      "urgency": "normal",
+      "notes": "",
+      "startTime": "2025-06-02T21:45:42+05:30"
+    },
+    "doctorId": 1
+  },
+  {
+    "id": 3,
+    "name": "OT-3",
+    "status": "occupied",
+    "isEmergencyOT": false,
+    "freeAt": "2025-06-02T23:32:37+05:30",
+    "patientInfo": {
+      "id": "P1002",
+      "name": "Patient 1002",
+      "token": "TKN1002",
+      "procedure": "Hip Replacement",
+      "urgency": "high",
+      "startTime": "2025-06-02T20:15:37+05:30"
+    },
+    "doctorId": 4
+  },
+  {
+    "id": 4,
+    "name": "OT-4",
+    "status": "occupied",
+    "isEmergencyOT": false,
+    "freeAt": "2025-06-02T23:32:37+05:30",
+    "patientInfo": {
+      "id": "P1003",
+      "name": "Patient 1003",
+      "token": "TKN1003",
+      "procedure": "Cataract Removal",
+      "urgency": "normal",
+      "startTime": "2025-06-02T20:13:37+05:30"
+    },
+    "doctorId": 9
+  },
+  {
+    "id": 5,
+    "name": "OT-5",
+    "status": "free",
+    "isEmergencyOT": false,
+    "freeAt": null,
+    "patientInfo": null,
+    "doctorId": null
+  },
+  {
+    "id": 6,
+    "name": "OT-6",
+    "status": "occupied",
+    "isEmergencyOT": false,
+    "freeAt": "2025-06-02T23:34:32+05:30",
+    "patientInfo": {
+      "id": "P2014",
+      "name": "Sharath",
+      "token": "TKN7071",
+      "procedure": "Appendectomy",
+      "urgency": "emergency",
+      "notes": "",
+      "startTime": "2025-06-02T21:34:32+05:30"
+    },
+    "doctorId": 10
+  },
+  {
+    "id": 7,
+    "name": "OT-7",
+    "status": "free",
+    "isEmergencyOT": false,
+    "freeAt": null,
+    "patientInfo": null,
+    "doctorId": null
+  },
+  {
+    "id": 8,
+    "name": "OT-8",
+    "status": "free",
+    "isEmergencyOT": false,
+    "freeAt": null,
+    "patientInfo": null,
+    "doctorId": null
+  },
+  {
+    "id": 9,
+    "name": "OT-9",
+    "status": "free",
+    "isEmergencyOT": false,
+    "freeAt": null,
+    "patientInfo": null,
+    "doctorId": null
+  },
+  {
+    "id": 10,
+    "name": "OT-10",
+    "status": "free",
+    "isEmergencyOT": true,
+    "freeAt": null,
+    "patientInfo": null,
+    "doctorId": null
+  }
+]
